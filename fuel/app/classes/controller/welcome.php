@@ -1,7 +1,5 @@
 <?php
-/*testtesttest*/
-/*master*/
-/*ArrayAccess*/
+/*test_dayo*/
 /**
  * Fuel is a fast, lightweight, community driven PHP5 framework.
  *
